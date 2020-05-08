@@ -1,11 +1,7 @@
 # nlp-beginner-solution
 :bulb: The solution to nlp-beginner project in FudanNLP
 
-本项目记录FudanNLP的
-
-[nlp-beginner]: https://github.com/FudanNLP/nlp-beginner	"nlp-beginner"
-
-项目的解决代码，代码中进行了较为详细的注释。Readme中列出了学习过程中查阅过的知识点的网站。
+本项目记录FudanNLP的[nlp-beginner](https://github.com/FudanNLP/nlp-beginner)项目的解决代码，代码中进行了较为详细的注释。Readme中列出了学习过程中查阅过的知识点的网站。
 
 ## Task1
 
